@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://aicurious.io/"  # Include trailing slash
+baseurl = "/"  # Include trailing slash
 title = "HugoCurious"
 author = "Viet-Anh Nguyen"
 #canonifyurls = true
