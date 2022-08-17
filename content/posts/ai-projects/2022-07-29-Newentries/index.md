@@ -7,9 +7,9 @@ tags:
 - Jetson Nano
 description: "Sadaf, Eugenio, Michele e Valerio sono dei nostri! Un incontro per iniziare a conoscerci meglio!"
 thumbnail: /posts/adas-jetson-nano-software/camera-calib.png
-slug: "/posts/adas-jetson-nano-software/"
+slug: "/posts/2022-07-29-Newentries/"
 
-discussionId: "/posts/adas-jetson-nano-software/"
+discussionId: "/posts/2022-07-29-Newentries/"
 math: true
 featured: true
 toc: true
