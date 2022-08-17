@@ -1,7 +1,7 @@
 ---
 title: "Daniela 1"
 date: 2020-09-12
-categories: ["quota rosa"]
+categories: ["quota rossa"]
 tags:
 - ADAS
 - Jetson Nano
