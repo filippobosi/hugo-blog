@@ -15,7 +15,7 @@ featured: true
 toc: true
 ---
 
-Oppalalà!
+Oppalalà!2
 Recently, I have built a prototype of an advanced driver-assistance system (ADAS) using a [Jetson Nano computer](/posts/2020-04-02-thiet-lap-ban-dau-cho-jetson-nano/). In this project, I have successfully deployed **3 deep neural networks**  and some **computer vision algorithms** on a [super cheap hardware of Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/jetson-store/). I decided to write this post series to share about how this system was designed and implemented. [The first post](/posts/adas-jetson-nano-intro-and-hardware/) is an introduction and the hardware design of my system. Today post will talk about the software design.
 
 The software system provides three main functions: **(i) forward collision warning with forward vehicles and pedestrians, (ii) lane analysis and lane departure warning, (iii) sign detection for maximum speed limit signs and over-speed warning**. These functions will be described in next 3 sections.
