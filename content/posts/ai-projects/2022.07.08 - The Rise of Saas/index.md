@@ -1,15 +1,15 @@
 ---
-title: "New entries"
-date: 2022-07-29
-categories: ["Privato","nuovi arrivi"]
+title: "The Rise of Saas"
+date: 2022.07.08
+categories: ["Pubblico", "Cloud"]
 tags:
 - ADAS
 - Jetson Nano
-description: "Sadaf, Eugenio, Michele e Valerio sono dei nostri! Un incontro per iniziare a conoscerci meglio!"
-thumbnail: /posts/adas-jetson-nano-software/camera-calib.png
-slug: "/posts/2022-07-29-Newentries/"
+description: "SaaS adoption is rising, but what are challenges organizations need to consider?"
+thumbnail: /posts/ai-projects/2022.07.08 - The Rise of Saas/cover-riseofsaas.png
+slug: "/posts/2022.07.08-Rise-of-Saas/"
 
-discussionId: "/posts/2022-07-29-Newentries/"
+discussionId: "/posts/2022.07.08-Rise-of-Saas/"
 math: true
 featured: true
 toc: true
