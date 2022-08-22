@@ -6,10 +6,10 @@ tags:
 - SaaS
 - Jetson Nano
 description: "SaaS adoption is rising, but what are challenges organizations need to consider?"
-thumbnail: /posts/2022.07.08-Rise-of-Saas/cover-riseofsaas.png
-slug: "/posts/2022.07.08-Rise-of-Saas/"
+thumbnail: /posts/2022-07-08-Rise-of-Saas/cover-riseofsaas.png
+slug: "/posts/2022-07-08-Rise-of-Saas/"
 
-discussionId: "/posts/2022.07.08-Rise-of-Saas/"
+discussionId: "/posts/2022-07-08-Rise-of-Saas/"
 math: true
 featured: true
 toc: true

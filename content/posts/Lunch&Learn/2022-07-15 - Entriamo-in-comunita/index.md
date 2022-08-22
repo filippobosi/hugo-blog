@@ -1,15 +1,15 @@
 ---
-title: "Advanced driver-assistance system on Jetson Nano Part 1 - Intro & Hardware design"
-date: 2020-09-10
-categories: ["AI Projects"]
+title: "Entriamo in comunità"
+date: 2022-07-15
+categories: ["Community, "CoE"]
 tags:
-- ADAS
-- Jetson Nano
-description: "Recently, I have built a prototype of an advanced driver-assistance system (ADAS) using a Jetson Nano computer. In this post, I will introduce my ADAS project on Jetson Nano and the hardware design of this system."
-thumbnail: /posts/adas-jetson-nano-intro-and-hardware/thumbnail.png
-slug: "/posts/adas-jetson-nano-intro-and-hardware/"
+- Coe
+- 
+description: "Le Community of Practice di Imola Informatica si presentano. Frontend, Data Science, Architettura e DevOps. Quale scegliere?"
+thumbnail: /posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita/Community-cover.png
+slug: "/posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita"
 
-discussionId: "/posts/adas-jetson-nano-intro-and-hardware/"
+discussionId: "/posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita"
 featured: true
 toc: true
 ---
