@@ -6,10 +6,10 @@ tags:
 - Coe
 - 
 description: "Le Community of Practice di Imola Informatica si presentano. Frontend, Data Science, Architettura e DevOps. Quale scegliere?"
-thumbnail: /posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita/Community-cover.png
-slug: "/posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita"
+thumbnail: /posts/2022-07-15 - Entriamo-in-comunita/Community-cover.png
+slug: "/posts/2022-07-15 - Entriamo-in-comunita"
 
-discussionId: "/posts/Lunch&Learn/2022-07-15 - Entriamo-in-comunita"
+discussionId: "/posts/2022-07-15 - Entriamo-in-comunita"
 featured: true
 toc: true
 ---
