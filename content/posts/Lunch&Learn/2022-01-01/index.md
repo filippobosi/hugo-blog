@@ -6,10 +6,10 @@ tags:
 - ADAS
 - Jetson Nano
 description: "Recently, I have built a prototype of an advanced driver-assistance system (ADAS) using a Jetson Nano computer. In this post, I will introduce my ADAS project on Jetson Nano and the software design of this system."
-thumbnail: /posts/adas-jetson-nano-software/camera-calib.png
-slug: "/posts/adas-jetson-nano-software/"
+thumbnail: /posts/2022-01-01/camera-calib.png
+slug: "/posts/2022-01-01/"
 
-discussionId: "/posts/adas-jetson-nano-software/"
+discussionId: "/posts/2022-01-01/"
 math: true
 featured: true
 toc: true
