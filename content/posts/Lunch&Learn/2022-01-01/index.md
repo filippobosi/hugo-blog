@@ -1,6 +1,6 @@
 ---
-title: "Advanced driver-assistance system on Jetson Nano Part 2 - Software design"
-date: 2020-09-12
+title: "2022-01-01"
+date: 2022-01-01
 categories: ["AI Projects"]
 tags:
 - ADAS
