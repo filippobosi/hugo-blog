@@ -1,7 +1,7 @@
 ---
 title: "Entriamo in comunità"
 date: 2022-07-15
-categories: ["Community, "CoE"]
+categories: ["Community", "CoE"]
 tags:
 - Coe
 - 
