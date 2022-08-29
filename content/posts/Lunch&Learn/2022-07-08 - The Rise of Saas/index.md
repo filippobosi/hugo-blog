@@ -5,6 +5,7 @@ categories: ["Pubblico", "Cloud"]
 tags:
 - SaaS
 - Jetson Nano
+- Filippo Prova Tag
 description: "SaaS adoption is rising, but what are challenges organizations need to consider?"
 thumbnail: /posts/2022-07-08-Rise-of-Saas/cover-riseofsaas.png
 slug: "/posts/2022-07-08-Rise-of-Saas/"
